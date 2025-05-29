@@ -1,12 +1,12 @@
 {
-"name": "TNOX-web-pair",
+"name": "Robin-web-pair",
     "version": "0.0.1",
     "description": "A multi functional whatsapp bot Web paircode.",
     "main": "index.js",
     "scripts": {
-      "start": "pm2 start index.js --deep-monitoring --attach --name TNOX",
-      "stop": "pm2 stop TNOX",
-     "restart": "pm2 restart TNOX"
+      "start": "pm2 start index.js --deep-monitoring --attach --name Robin",
+      "stop": "pm2 stop robin",
+     "restart": "pm2 restart robin"
     },
   "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
