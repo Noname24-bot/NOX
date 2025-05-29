@@ -1,12 +1,12 @@
 {
-"name": "Robin-web-pair",
+"name": "NOX-BOT",
     "version": "0.0.1",
     "description": "A multi functional whatsapp bot Web paircode.",
     "main": "index.js",
     "scripts": {
-      "start": "pm2 start index.js --deep-monitoring --attach --name Robin",
-      "stop": "pm2 stop robin",
-     "restart": "pm2 restart robin"
+      "start": "pm2 start index.js --deep-monitoring --attach --name THISUM",
+      "stop": "pm2 stop THISM_NOX",
+     "restart": "pm2 restart THISUM_NOX"
     },
   "dependencies": {
      "@whiskeysockets/baileys": "github:MR-LAKIYA/Baileys",
