@@ -81,8 +81,8 @@ router.get("/", async (req, res) => {
               ""
             );
 
-            const sid = `*NOX BOT [The powerful WA BOT]*\n\n👉 ${string_session} 👈\n\n*This is the your Session ID, copy this id and paste into config.js file*\n\n*You can ask any question using this link*\n\n*https://wa.link/liqtun*\n\n*You can join my whatsapp group*\n\n*https://chat.whatsapp.com/L0rb063QEAT7QYtHdffksk*`;
-            const mg = `🛑 *Do not share this code to anyone* 🛑`;
+            const sid = `*𝙒𝙀𝙇𝙇𝘾𝙊𝙈𝙀  𝙏𝙊 𝙉𝙊𝙓 𝘽𝙊𝙏 [The powerful WA BOT]*\n\n👉 ${string_session} 👈\n\n*This is the your Session ID, copy this id and paste into config.js file*\n\n*𝙔𝙊𝙐 𝘾𝘼𝙉 𝘼𝙎𝙆 𝘼𝙉𝙔 𝙌𝙐𝙀𝙎𝙏𝙄𝙊𝙉 𝙐𝙎𝙄𝙉𝙂 𝙏𝙃𝙄𝙎 𝙇𝙄𝙉𝙆  👉*\n\n*https://wa.link/liqtun*\n\n*𝙔𝙊𝙐 𝘾𝘼𝙉 𝙅𝙊𝙄𝙉 𝙈𝙔 𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋 𝙂𝙍𝙊𝙐𝙋 👉*\n\n*https://chat.whatsapp.com/L0rb063QEAT7QYtHdffksk*`;
+            const mg = `🛑 *𝘿𝙊 𝙉𝙊𝙏 𝙎𝙃𝘼𝙍𝙀 𝙏𝙃𝙄𝙎 𝘾𝙊𝘿𝙀 𝘼𝙉𝙔𝙊𝙉𝙀* 🛑`;
             const dt = await RobinPairWeb.sendMessage(user_jid, {
               image: {
                 url: "https://www.shutterstock.com/image-vector/chat-bot-icon-virtual-smart-600nw-2478937555.jpg",
