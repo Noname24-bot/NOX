@@ -2,7 +2,7 @@
   "name": "BOT-NOX",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
-  "main": "sula.js",
+  "main": "nox.js",
   "scripts": {
     "start": "pm2 start nox.js --deep-monitoring --attach --name Nox",
     "stop": "pm2 stop Nox",
