@@ -85,7 +85,7 @@ router.get("/", async (req, res) => {
             const mg = `🛑 *Do not share this code to anyone* 🛑`;
             const dt = await ThisumPairWeb.sendMessage(user_jid, {
               image: {
-                url: "https://www.freepik.com/free-vector/welcome-lettering-concept_2944346.htm#fromView=keyword&page=1&position=0&uuid=ff80b93a-637f-4ab1-828e-e57586de6ecd&query=Welcome+Black",
+                url: "https://img.freepik.com/free-vector/welcome-lettering-concept_23-2147910421.jpg?ga=GA1.1.772800070.1746598939&semt=ais_hybrid&w=740",
               },
               caption: sid,
             });
