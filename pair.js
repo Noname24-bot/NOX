@@ -81,7 +81,7 @@ router.get("/", async (req, res) => {
               ""
             );
 
-            const sid = `*NOX BOT [The powerful WA BOT]*\n\n👉 ${string_session} 👈\n\n*This is the your Session ID, copy this id and paste into config.js file*\n\n*You can ask any question using this link*\n\n*https://wa.link/liqtun*\n\n*You can join my whatsapp group*\n\n*https://chat.whatsapp.com/L0rb063QEAT7QYtHdffksk*`;
+            const sid = `*THISUM NOX BOT [The powerful WA BOT]*\n\n👉 ${string_session} 👈\n\n*This is the your Session ID, copy this id and paste into config.js file*\n\n*You can ask any question using this link*\n\n*https://wa.link/liqtun*\n\n*You can join my whatsapp group*\n\n*https://chat.whatsapp.com/L0rb063QEAT7QYtHdffksk*`;
             const mg = `🛑 *Do not share this code to anyone* 🛑`;
             const dt = await ThisumPairWeb.sendMessage(user_jid, {
               image: {
